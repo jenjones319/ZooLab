@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ZooLab
+﻿namespace ZooLab
 {
-    class Class1
+    class Bears
     {
     }
 }
